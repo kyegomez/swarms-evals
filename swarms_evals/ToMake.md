@@ -1,9 +1,9 @@
 # Evals to make
 
 ## Math
-[ ] GSM8K
+[x] GSM8K
 
-[ ] MATH
+[x] MATH
 
 ## code
 [ ] HumanEval
@@ -19,7 +19,7 @@
 ## commonsense reasoning
 [ ] ARC (AI2 Reasoning Challenge)
 
-[ ] HellaSwag
+[x] HellaSwag
 
 [ ] Winogrande
 
@@ -68,7 +68,19 @@
 
 ## aggregated
 
-[ ] MMLU
+[x] MMLU [MMLU](https://en.wikipedia.org/wiki/MMLU) (https://arxiv.org/abs/2009.03300) (https://github.com/hendrycks/test) [Data] (https://people.eecs.berkeley.edu/~hendrycks/data.tar) [eval](https://github.com/hendrycks/test/blob/master/evaluate.py) [cite] ```@article{hendryckstest2021,
+  title={Measuring Massive Multitask Language Understanding},
+  author={Dan Hendrycks and Collin Burns and Steven Basart and Andy Zou and Mantas Mazeika and Dawn Song and Jacob Steinhardt},
+  journal={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2021}
+}
+
+@article{hendrycks2021ethics,
+  title={Aligning AI With Shared Human Values},
+  author={Dan Hendrycks and Collin Burns and Steven Basart and Andrew Critch and Jerry Li and Dawn Song and Jacob Steinhardt},
+  journal={Proceedings of the International Conference on Learning Representations (ICLR)},
+  year={2021}
+}```
 
 [ ] HELM
 
@@ -80,7 +92,7 @@
 
 [ ] ChatBot Arena
 
-[ ] MT Bench
+[/] MT Bench
 
 
 
